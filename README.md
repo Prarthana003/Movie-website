@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This website shows all the popular and recent movies with their respective ratings.
+It is an api based website. 
+
 
 ## Available Scripts
 
